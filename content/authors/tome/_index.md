@@ -35,7 +35,7 @@ education:
     institution: Federal University of Paraná
     year: 2017
   - course: BSc in Computer Science
-    institution: State Unibersity of Ceará
+    institution: State University of Ceará
     year: 2015
 
 # Social/Academic Networking
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Diego Tomé is a PhD. Student of database architectures at Centrum Wiskunde Informatica. His research interests include data compression, co-processing with GPUs and emergin hardware. He is part of the Database Architectures group from CWI, which  is well known as a top data systems research group, active in the broad area of data (management) systems and infrastructure for supporting data science.
-
-The Database Architectures research group has a strong international reputation in academia and industry for pioneering column store technology, fast compression methods, vectorized query execution, on-line query-driven indexing (cracking), adaptive caching, and integration of statistical languages and analysis in database management systems.
+Diego Tomé is a PhD. Student oon database architectures at Centrum Wiskunde Informatica. His research interests include data compression, co-processing with GPUs and emerging hardware. He is part of the Database Architectures group from CWI, which  is well known as a top data systems research group, active in the broad area of data (management) systems and infrastructure for supporting data science.
