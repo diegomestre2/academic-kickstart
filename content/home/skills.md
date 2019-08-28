@@ -17,19 +17,25 @@ subtitle = ""
 [[feature]]
   icon = "far fa-file-code"
   icon_pack = "far"
-  name = "C++"
-  description = "90%"
+  name = "C/C++"
+  description = ""
   
 [[feature]]
   icon = "fas fa-database"
   icon_pack = "fas"
   name = "Database Architectures"
-  description = "90%"  
+  description = ""  
   
 [[feature]]
   icon = "fab fa-java"
   icon_pack = "fab"
   name = "Java"
-  description = "100%"
+  description = ""
+
+# [[feature]]
+#  icon = "fab fa-linux"
+#  icon_pack = "fab"
+#  name = "Linux"
+#  description = ""
 
 +++
