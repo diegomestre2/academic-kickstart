@@ -18,7 +18,7 @@ organizations:
   url: "https://www.cwi.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. Student in the Centrum Wiskunde & Informatica - Amsterdam NL. My research interest is in database architectures, specifically related to the usage of emerging hardware to accelerate columnar databases, data compression, and make use of co-processing with GPUs.
+bio: I am a Ph.D. Student at CWI - Amsterdam NL. My research interest is in database architectures, specifically related to the usage of emerging hardware to accelerate columnar databases, data compression, and make use of co-processing with GPUs.
 
 interests:
 - In-memory Database Management Systems
@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: PhD in Database Architectures
-    institution: Centrum Wiskunde & Informatica/ Vrije Universiteit Amsterdam
+    institution: CWI/ Vrije Universiteit Amsterdam
     year: 2022
   - course: MSc in Database Systems
     institution: Federal University of Paraná
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Diego Tomé is a PhD. Student oon database architectures at Centrum Wiskunde Informatica. His research interests include data compression, co-processing with GPUs and emerging hardware. He is part of the Database Architectures group from CWI, which  is well known as a top data systems research group, active in the broad area of data (management) systems and infrastructure for supporting data science.
+Hi, I am Diego Tomé and I am a PhD. Student in the Database Architectures Group at CWI-NL. My research interests include data compression, co-processing with GPUs and the usage of emerging hardware to accelerate queries. The Database Architectures group from CWI is well known as a top data systems research group, active in the broad area of data (management) systems and infrastructure for supporting data science. My role in the group is to develop high level research on database systems with focus on its architecture.
