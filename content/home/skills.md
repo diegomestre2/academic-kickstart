@@ -32,10 +32,22 @@ subtitle = ""
   name = "Java"
   description = ""
 
-# [[feature]]
-#  icon = "fab fa-linux"
-#  icon_pack = "fab"
-#  name = "Linux"
-#  description = ""
+[[feature]]
+  icon = "fab fa-linux"
+  icon_pack = "fab"
+  name = "Linux/Shell"
+  description = ""
+
+[[feature]]
+  icon = "fab fa-python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
+[[feature]]
+  icon = "fas fa-laptop-code"
+  icon_pack = "fas"
+  name = "Algorithms"
+  description = ""
 
 +++
