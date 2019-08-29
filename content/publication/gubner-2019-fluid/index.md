@@ -8,6 +8,6 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 15th International Workshop on Data Management on New Hardware*"
 url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
-url_code: "https://github.com/AlineS/intrinsics"
+url_code: "https://github.com/t1mm3/fluid_coprocessing"
 ---
 

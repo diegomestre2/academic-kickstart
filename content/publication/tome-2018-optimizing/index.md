@@ -8,6 +8,6 @@ abstract: ""
 featured: false
 publication: "*ADMS@VLDB*"
 url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
-url_code: "https://github.com/AlineS/intrinsics"
+url_code: "https://github.com/diegomestre2/tpchQ01_GPU"
 ---
 
