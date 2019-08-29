@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD)*"
-url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
+url_pdf: "files/intrinsics.pdf"
 url_code: "https://github.com/AlineS/intrinsics"
 ---
 

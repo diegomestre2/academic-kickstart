@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*Design, Automation & Test in Europe Conference & Exhibition (DATE), 2018*"
-url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
-url_code: "https://github.com/diegomestre2/Masters"
+url_pdf: "files/hipe.pdf"
+url_code: "https://github.com/diegomestre2/Master"
 ---
 

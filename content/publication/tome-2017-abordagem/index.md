@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*32nd Brazilian Symposium on Databases*"
-url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
+url_pdf: "files/WTDBD17.pdf"
 url_code: "https://github.com/diegomestre2/Master"
 ---
 

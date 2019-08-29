@@ -7,7 +7,7 @@ publication_types: ["7"]
 abstract: ""
 featured: false
 publication: "Master's Thesis UFPR"
-url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
+url_pdf: "files/thesis.pdf"
 url_code: "https://github.com/diegomestre2/Master"
 ---
 

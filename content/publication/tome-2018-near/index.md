@@ -7,7 +7,7 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ADMS@VLDB*"
-url_pdf: "https://sol.sbc.org.br/index.php/wscad/article/download/253/240"
+url_pdf: "files/near_data.pdf"
 url_code: "https://github.com/diegomestre2/Master"
 ---
 
