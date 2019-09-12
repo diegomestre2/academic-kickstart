@@ -52,6 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=fKpELNMAAAAJ&hl=en
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/t/Tome:Diego_G=
 - icon: github
   icon_pack: fab
   link: https://github.com/diegomestre2
