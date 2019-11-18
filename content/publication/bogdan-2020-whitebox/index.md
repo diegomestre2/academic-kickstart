@@ -4,7 +4,7 @@ date: 2020-01-09
 publishDate: 2020-01-09T08:31:21.643084Z
 authors: ["Bogdan Guita", "Diego Tomé", "Peter Boncz"]
 publication_types: ["1"]
-abstract: ""
+abstract: "Test"
 featured: false
 publication: "Proceedings of the Conference on Innovative Data Systems Research (CIDR)"
 url_pdf: "files/whitebox.pdf"
