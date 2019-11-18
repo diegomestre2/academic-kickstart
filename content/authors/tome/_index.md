@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Diego Tomé and I am a PhD. Student in the Database Architectures Group at CWI-NL. My research interests include data compression, co-processing with GPUs and the usage of emerging hardware to accelerate queries. The Database Architectures group from CWI is well known as a top data systems research group, active in the broad area of data (management) systems and infrastructure for supporting data science. My role in the group is to develop high level research on database systems with focus on its architecture.
+Hi, I am Diego Tomé and I am a Ph.D. student in the Database Architectures group at CWI-NL. My research interests include data compression, co-processing with GPUs and the usage of emerging hardware to accelerate queries. The Database Architectures group from CWI is well known as a top data systems research group, active in the broad area of data (management) systems and infrastructure for supporting data science. My role in the group is to develop high-level research on database systems with a focus on its architecture.
