@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/diegomestre2/tpchQ01_GPU/commits?author=diegomestre2"
-url_pdf: ""
+url_pdf: "http://www.adms-conf.org/2015/gpu-optimizer-camera-ready.pdf"
 url_slides: ""
 url_video: ""
 

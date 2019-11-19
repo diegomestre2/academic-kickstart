@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/cwida/duckdb/commits?author=diegomestre2"
-url_pdf: ""
+url_pdf: "https://dl.acm.org/citation.cfm?id=3320212"
 url_slides: ""
 url_video: ""
 
