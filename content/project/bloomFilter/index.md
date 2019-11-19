@@ -9,7 +9,7 @@ categories: []
 date: 2019-08-28T10:56:29+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://dl.acm.org/citation.cfm?id=3329934"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/t1mm3/fluid_coprocessing/commits?author=diegomestre2"
-url_pdf: ""
+url_pdf: "https://dl.acm.org/citation.cfm?id=3329934"
 url_slides: ""
 url_video: ""
 
