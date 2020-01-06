@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "White-box Compression: Optimizing Compression by learning the data"
+title: "White-box Compression: Exploiting Compact Table Representation"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2019-08-28T10:24:06+02:00
+date: 2019-01-28T10:24:06+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://cidrdb.org/cidr2020/program.html"
