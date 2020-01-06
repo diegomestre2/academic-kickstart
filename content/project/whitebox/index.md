@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2019-now White-box Compression: Exploiting Compact Table Representation"
+title: "(2019-now) White-box Compression: Exploiting Compact Table Representation"
 summary: ""
 authors: []
 tags: []
