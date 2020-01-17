@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "(2018-2019) Fluid Co-processing: GPU Bloom-filters for CPU Joins"
+title: "Fluid Co-processing: GPU Bloom-filters for CPU Joins"
 summary: ""
 authors: []
 tags: []

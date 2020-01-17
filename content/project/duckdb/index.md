@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "(2018-now) Duckdb - Embeddable SQL OLAP Database Management System"
+title: "Duckdb - Embeddable SQL OLAP Database Management System"
 summary: ""
 authors: []
 tags: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "(2018-2018) TPC-H Query 01 Optimized for GPU execution"
+title: "GPU-CPU Co-processing"
 summary: ""
 authors: []
 tags: []
